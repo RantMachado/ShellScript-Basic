@@ -2,7 +2,7 @@
 
 Terminal utilizado:
 ``` 
-zsh
+bash | zsh
 ```
 
 OS Info:

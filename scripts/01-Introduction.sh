@@ -18,7 +18,7 @@ echo $LANG # Idioma do locale
 teste = valor # Se tiver espaço a variável não recebe a atribuição
 teste=valor2 # Atribuição correta
 
-echo $teste
+echo $teste # Imprime na tela o conteudo da variável teste
 
 # Deixando a variavel como global, basta usar o comando export 
 
