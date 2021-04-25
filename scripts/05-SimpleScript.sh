@@ -4,6 +4,6 @@
 
 cd / 
 ls -l
-echo "Arquivos e diretorios listados"
+echo "Arquivos e diretórios listados"
 echo -n  "O usuário logado no momento é: " # o parametro -n retira a quebra de linha do comando echo
 whoami
