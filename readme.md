@@ -1,8 +1,12 @@
 ### Mini curso de aprendizagem de Shell Script feito na Boson treinamentos
 
-Terminal utilizado:
+Shell's utilizados:
 ``` 
-bash | zsh
+bash | zsh 
+```
+Multiplexers de terminal
+```
+Tilix & Tmux
 ```
 
 OS Info:
