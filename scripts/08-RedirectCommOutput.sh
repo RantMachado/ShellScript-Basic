@@ -10,7 +10,7 @@
 
 arq=`date +%d%m%y%H%M`
 
-ls -la /home/rant > log.$arq
+ls -la /home/rant > ../arquivos/log.$arq
 
 
 
