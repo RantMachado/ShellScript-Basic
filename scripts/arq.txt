@@ -1,0 +1,12 @@
+[01-02]-Introduction.sh
+03-Arrays.sh
+04-Aliases&Functions.sh
+05-Config-Archives.sh
+06-SimpleScript.sh
+07-VarInScripts.sh
+08-RedirectCommOutput.sh
+09-RedirectIO.sh
+arq.txt
+date.txt
+log.0205211835
+testeUserVar.sh
