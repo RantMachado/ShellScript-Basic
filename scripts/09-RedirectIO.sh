@@ -20,17 +20,17 @@
 # Dessa forma o conteudo também é inserido no arquivo, mas caso rodado 
 # novamente o conteudo é anexado no fim do arquivo e não sobrescrito
 
-ls > ../arquivos/arq.txt
+ls > ../files/arq.txt
 
 # Acrescentando data e hora
-date >> ../arquivos/date.txt
+date >> ../files/date.txt
 
 # Redirecionamento de entrada
 # Em vez de redirecionar a saída de um comando para um arquivo, é possível tomar 
 # o conteúdo de um arquivo e redireciona-lo para um comando.
 # Para isso, use o símbolo: <
 # comando > arquivo_entrada
-wc < ../arquivos/arq.txt
+wc < ../files/arq.txt
 
 # O comando wc produz contagem de texto do arquivo. Por padrão mostra três 
 # valores:
